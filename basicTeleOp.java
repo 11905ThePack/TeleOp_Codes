@@ -7,7 +7,7 @@ import com.qualcomm.robotcore.hardware.Servo;
 
 
 @TeleOp(name = "Basic TeleOp", group = "TeleOp")
-public class TeleOpTutorial extends LinearOpMode
+public class Basic TeleOp extends LinearOpMode
 {
     // Declare drive motors
     private DcMotor motorLeft;
